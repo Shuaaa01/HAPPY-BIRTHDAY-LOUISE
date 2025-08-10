@@ -85,7 +85,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   color: #FFFDD0;
-  background-color: #ADD8E6;
+  background-color: #3d5a80;
   padding: 10px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(177, 122, 122, 0.2);
@@ -159,7 +159,7 @@ body {
 .drip3 { top: 54px; left: 90px; width: 80px; border-bottom-left-radius: 40px; border-bottom-right-radius: 40px; }
 
 .candle {
-  background-color: #8ecae6;
+  background-color: #CCCCFF;
   width: 12px;
   height: 35px;
   border-radius: 6px/3px;
